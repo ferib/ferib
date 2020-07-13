@@ -1,4 +1,4 @@
-![https://github.com/ferib/ferib/raw/master/img/logo.png?raw=true](a not-so-good looking pumpkin)
+![a not-so-good looking pumpkin](https://ferib.dev/logo.png)
 
 # Who am I
 
