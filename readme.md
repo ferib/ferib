@@ -1,2 +1,3 @@
-<img id="main-logo" src="logo.png" alt="A 'not so good lookin' pumpkin" width="600" height="600">
-# Hello World!
+![https://ferib?dev/logo.png](a not-so-good looking pumpkin)
+# Who am I
+*I am a C# programmer that has a big interest in automating task, software and even hardware.*
