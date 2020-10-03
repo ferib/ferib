@@ -1,4 +1,4 @@
-![a not-so-good looking pumpkin](https://ferib.dev/logo.png =200x200)
+[<img alt="a not-so-good looking pumpkin" src="https://ferib.dev/logo.png" width="200">](https://ferib.dev/#nocringe)
 
 # Who am I
 
