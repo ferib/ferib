@@ -3,7 +3,7 @@
 
 # Who am I
 
-*I am a programmer that has a great interest in software automation, cybersecurity and, reverse engineering*
+*I am a developer that has a great interest in software engineering, hardware hacking, cybersecurity and, reverse engineering*
 
 # Blog Posts
 - [19/02/2021] [Protecting Packet Tracer Myself Because No One Gives a F*ck](https://ferib.dev/blog.php?l=post/Protecting_Packet_Tracer_Myself_Because_No_One_Gives_a_Fuck)
