@@ -6,7 +6,7 @@
 *I am a developer that has a great interest in software engineering, hardware hacking, cybersecurity and, reverse engineering.*
 
 # Blog Posts
-- [28/03/2021] [Lua Devirtualization Part 1: Decompiling Lua](https://ferib.dev/blog.php?l=post/Lua_Devirtualization_Part_2_Decompiling_Lua)
+- [28/03/2021] [Lua Devirtualization Part 2: Decompiling Lua](https://ferib.dev/blog.php?l=post/Lua_Devirtualization_Part_2_Decompiling_Lua)
 - [21/03/2021] [Lua Devirtualization Part 1: Introduction](https://ferib.dev/blog.php?l=post/Lua_Devirtualization_Part_1_Introduction)
 - [19/02/2021] [Protecting Packet Tracer Myself Because No One Gives a F*ck](https://ferib.dev/blog.php?l=post/Protecting_Packet_Tracer_Myself_Because_No_One_Gives_a_Fuck)
 - [30/09/2020] [How I automated McDonalds mobile game to win free iPhones](https://ferib.dev/blog.php?l=post/How_I_automated_McDonalds_mobile_game_to_win_free_iphones)
