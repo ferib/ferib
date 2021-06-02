@@ -17,6 +17,6 @@
 - [19/02/2020] [What does LockDownBrowser really do?](https://ferib.dev/blog.php?l=post/What_does_LockDownBrowser_really_do)
 
 ## Media 📷
-- [28/05/2021] [Blizzard sommeert Belgische modder te stoppen met Diablo II: Resurrected-mod](https://tweakers.net/nieuws/182248/blizzard-sommeert-belgische-modder-te-stoppen-met-diablo-ii-resurrected-mod.html)
-- [28/05/2021] [Blizzard Issues Cease and Desist Letters to Modders Citing Security Concerns](https://www.wowhead.com/news/blizzard-issues-cease-and-desist-letters-to-modders-citing-security-concerns-322566)
-- [27/05/2021] [Blizzard Sends Cease-And-Desists To Diablo II: Resurrected Modders](https://kotaku.com/blizzard-sends-cease-and-desists-to-diablo-ii-resurrec-1846977935)
+- [28/05/2021] [Tweakers] [Blizzard sommeert Belgische modder te stoppen met Diablo II: Resurrected-mod](https://tweakers.net/nieuws/182248/blizzard-sommeert-belgische-modder-te-stoppen-met-diablo-ii-resurrected-mod.html)
+- [28/05/2021] [Wowhead] [Blizzard Issues Cease and Desist Letters to Modders Citing Security Concerns](https://www.wowhead.com/news/blizzard-issues-cease-and-desist-letters-to-modders-citing-security-concerns-322566)
+- [27/05/2021] [Kotaku] [Blizzard Sends Cease-And-Desists To Diablo II: Resurrected Modders](https://kotaku.com/blizzard-sends-cease-and-desists-to-diablo-ii-resurrec-1846977935)
