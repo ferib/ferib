@@ -5,7 +5,7 @@
 
 *I am a developer that has a great interest in software engineering, hardware hacking, cybersecurity and, reverse engineering.*
 
-## Blog Posts 📝
+## Technical Blog Posts 📝
 - [02/05/2021] ~~[Inviting Myself to The Diablo II: Resurrected Closed Alpha](https://ferib.dev/blog.php?l=post/Inviting_Myself_to_The_Diablo_II_Resurrected_Closed_Alpha)~~
 - [28/03/2021] [Lua Devirtualization Part 2: Decompiling Lua](https://ferib.dev/blog.php?l=post/Lua_Devirtualization_Part_2_Decompiling_Lua)
 - [21/03/2021] [Lua Devirtualization Part 1: Introduction](https://ferib.dev/blog.php?l=post/Lua_Devirtualization_Part_1_Introduction)
@@ -18,7 +18,11 @@
 - [01/03/2020] [Reversing a Online Webshop for Discounts](https://ferib.dev/blog.php?l=post/Reversing_a_Online_Webshop_for_Discounts)
 - [19/02/2020] [What does LockDownBrowser really do?](https://ferib.dev/blog.php?l=post/What_does_LockDownBrowser_really_do)
 
-## Media 📷
+## Gaming Blog Posts 🎮
+- [10/08/2021] [The Bussiness Model of AnimeShooter](https://blog.animeshooter.com/article/The_Business_Model_of_AnimeShooter.html)
+- [06/08/2021] [Developing a Private Game Server](https://blog.animeshooter.com/article/Developing_a_Private_Game_Server.html) 
+
+### Media 📷
 - [28/05/2021] [Tweakers] [Blizzard sommeert Belgische modder te stoppen met Diablo II: Resurrected-mod](https://tweakers.net/nieuws/182248/blizzard-sommeert-belgische-modder-te-stoppen-met-diablo-ii-resurrected-mod.html)
 - [28/05/2021] [Wowhead] [Blizzard Issues Cease and Desist Letters to Modders Citing Security Concerns](https://www.wowhead.com/news/blizzard-issues-cease-and-desist-letters-to-modders-citing-security-concerns-322566)
 - [27/05/2021] [Kotaku] [Blizzard Sends Cease-And-Desists To Diablo II: Resurrected Modders](https://kotaku.com/blizzard-sends-cease-and-desists-to-diablo-ii-resurrec-1846977935)
