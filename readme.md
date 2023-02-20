@@ -5,6 +5,10 @@
 
 *I am a developer that has a great interest in software engineering, hardware hacking, cybersecurity and, reverse engineering.*
 
+## Projects ⚒️
+- [AnimeShooter](https://animeshooter.com) - Private Game Server for MangaFighters
+- [LuaObfuscator](https://luaobfuscator.com) - Online Platform for Lua Obfuscation _(and more)_
+
 ## Technical Blog Posts 📝
 - [14/03/2022] [Reversing Common Obfuscation Techniques](https://ferib.dev/blog.php?l=post/Reversing_Common_Obfuscation_Techniques)
 - [24/02/2022] [Lua Devirtualization Part 3: Devirtualizing Luraph](https://ferib.dev/blog.php?l=post/Lua_Devirtualization_Part_3_Devirtualizing_Luraph)
