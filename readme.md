@@ -10,6 +10,7 @@
 - [LuaObfuscator](https://luaobfuscator.com) - Online Platform for Lua Obfuscation _(and more)_
 
 ## Technical Blog Posts 📝
+- [02/04/2023] [Bringing Obfuscation to the Bitcoin Blockchain](https://ferib.dev/blog.php?l=post/Bringing_Obfuscation_to_the_Bitcoin_Blockchain)
 - [14/03/2022] [Reversing Common Obfuscation Techniques](https://ferib.dev/blog.php?l=post/Reversing_Common_Obfuscation_Techniques)
 - [24/02/2022] [Lua Devirtualization Part 3: Devirtualizing Luraph](https://ferib.dev/blog.php?l=post/Lua_Devirtualization_Part_3_Devirtualizing_Luraph)
 - [02/05/2021] ~~[Inviting Myself to The Diablo II: Resurrected Closed Alpha](https://ferib.dev/blog.php?l=post/Inviting_Myself_to_The_Diablo_II_Resurrected_Closed_Alpha)~~
