@@ -3,7 +3,7 @@
 
 # Who am I 🎃
 
-*I am a developer that has a great interest in software engineering, hardware hacking, cybersecurity and, reverse engineering.*
+*I am a developer who has a great interest in software engineering, hardware hacking, cybersecurity, and reverse engineering.*
 
 ## Projects ⚒️
 - [AnimeShooter](https://animeshooter.com) - Private Game Server for MangaFighters
