@@ -10,7 +10,7 @@
 - [LuaObfuscator](https://luaobfuscator.com) - Online Platform for Lua Obfuscation -(and more)-
 
 ## Technical Blog Posts 📝
-# [26/10/2024] [EV Code Signing with .pfx in 2024](https://ferib.dev/blog/EV-code-signing-with-pfx-in-2024/)
+- [26/10/2024] [EV Code Signing with .pfx in 2024](https://ferib.dev/blog/EV-code-signing-with-pfx-in-2024/)
 - [21/05/2023] [Optimizing Lua Development For Restricted Environments](https://ferib.dev/blog/optimizing-lua-development-for-restricted-environments/)
 - [02/04/2023] [Bringing Obfuscation to the Bitcoin Blockchain](https://ferib.dev/blog/bringing-obfuscation-to-the-Bitcoin-blockchain/)
 - [14/03/2022] [Reversing Common Obfuscation Techniques](https://ferib.dev/blog/reversing-common-obfuscation-techniques/)
