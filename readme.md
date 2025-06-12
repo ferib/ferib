@@ -17,10 +17,10 @@
 - [24/02/2022] [Lua Devirtualization Part 3: Devirtualizing Luraph](https://ferib.dev/blog/lua-devirtualization-part-3-devirtualizing-luraph/)
 - [02/05/2021] ~~[Inviting Myself to The Diablo II: Resurrected Closed Alpha](https://ferib.dev/blog/inviting-myself-to-the-Diablo-II-Resurrected-closed-alpha/)~~
 - [28/03/2021] [Lua Devirtualization Part 2: Decompiling Lua](https://ferib.dev/blog/lua-devirtualization-part-2-decompiling-lua/)
-- [21/03/2021] [Lua Devirtualization Part 1: Introduction](https://ferib.dev/lua-devirtualization-part-1-introduction/)
-- [19/02/2021] [Protecting Packet Tracer Myself Because No One Gives a F*ck](https://ferib.dev/protecting-Packet-Tracer-myself-because-no-one-gives-a-fuck/)
-- [27/01/2021] [Cheating Your Grades With Cheat Engine: The Roast of Packet Tracer](https://ferib.dev/cheating-your-grades-with-Cheat-Engine-the-roast-of-Packet-Tracer/)
-- [30/09/2020] [How I automated McDonalds mobile game to win free iPhones](https://ferib.dev/how-i-automated-McDonalds-mobile-game-to-win-free-iphones/)
+- [21/03/2021] [Lua Devirtualization Part 1: Introduction](https://ferib.dev/blog/lua-devirtualization-part-1-introduction/)
+- [19/02/2021] [Protecting Packet Tracer Myself Because No One Gives a F*ck](https://ferib.dev/blog/protecting-Packet-Tracer-myself-because-no-one-gives-a-fuck/)
+- [27/01/2021] [Cheating Your Grades With Cheat Engine: The Roast of Packet Tracer](https://ferib.dev/blog/cheating-your-grades-with-Cheat-Engine-the-roast-of-Packet-Tracer/)
+- [30/09/2020] [How I automated McDonalds mobile game to win free iPhones](https://ferib.dev/blog/how-i-automated-McDonalds-mobile-game-to-win-free-iphones/)
 - [13/05/2020] ~~[Bypassing World of Warcraft's read-only code protection (crc32)](https://ferib.dev/blog/bypassing-World-of-Warcraft-crc32-integrity-checks/)~~
 - [24/03/2020] ~~[Reversing Public Transport Application 'DeLijn'](https://ferib.dev/blog/reversing-public-transport-application-DeLijn/)~~
 - [06/03/2020] [Reversing the McDonalds Mobile Application to get free food](https://ferib.dev/blog/reversing-the-McDonalds-mobile-application-to-get-free-food/)
